@@ -1,2 +1,2 @@
 # Lu-S-Hiun
- for testing out github desktop.
+ For testing out GitHub Desktop.
